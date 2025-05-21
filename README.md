@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Homelander98
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter&TypeScript
-- 💞️ I’m looking to collaborate on applications
-- 📫 How to reach me theyseeemerollin@gmail.com
-- 😄 Pronouns: He/Him
-
-<!---
-Homelander98/Homelander98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📱 Fluttering through the void of mobile dev  
+🎯 Dart: my weapon of choice, aimed at sanity  
+💀 Hot reload, cold soul  
+🔍 Debugging UI like it owes me money  
+🚩 Red flags = “features” in production  
+🌌 Dark mode enthusiast (because light mode burns my retinas)  
+🗃️ Widgets nesting widgets nesting widgets… send help  
+💬 DM me if you also dream in YAML  
