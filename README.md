@@ -1,8 +1,12 @@
-📱 Fluttering through the void of mobile dev  
-🎯 Dart: my weapon of choice, aimed at sanity  
-💀 Hot reload, cold soul  
-🔍 Debugging UI like it owes me money  
-🚩 Red flags = “features” in production  
-🌌 Dark mode enthusiast (because light mode burns my retinas)  
-🗃️ Widgets nesting widgets nesting widgets… send help  
-💬 DM me if you also dream in YAML  
+# 🖤 Flutter Dev in the Shadows  
+
+> _"Hot reload, hotter breakdowns."_  
+
+- 🎯 **Dart enthusiast** (by necessity, not choice)  
+- 📱 **Flutter apps**: 90% widgets, 10% duct tape  
+- 🔍 Debugging like it’s an Olympic sport  
+- 🌑 Dark mode all the way (light mode is for NPCs)  
+
+---
+
+_“If it works, don’t ask how.”_  
